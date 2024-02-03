@@ -6,6 +6,7 @@ The Orders Dashboard is a web application designed to provide an intuitive inter
 <img width="894" alt="orders 2" src="https://github.com/RaghaviSada/Orders_dashboard_W1_STI/assets/138796243/3342725a-4ee9-4f6d-a26b-7466146aac7e">
 
 __Features__:
+
 __Order Management:__ View, create, edit, and delete orders.
 
 __Search and Filter:__ Easily search for specific orders and filter them based on various criteria such as date, status, etc.
